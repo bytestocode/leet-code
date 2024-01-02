@@ -1,2 +1,2 @@
-# leet-code
-LeetCode algorithm
+# LeetCode algorithm
+- every Tuesday and Thursday
