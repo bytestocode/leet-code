@@ -1,3 +1,5 @@
+import 'dart:math';
+
 class Solution {
   int largestAltitude(List<int> gain) {
     // 최대 고도
